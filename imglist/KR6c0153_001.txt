@@ -1,0 +1,6 @@
+001-0802b00	X 001-0802b	buddhist/X-xuzang/X26/08/X26-0802.png
+001-0802c00	X 001-0802c	buddhist/X-xuzang/X26/08/X26-0802.png
+001-0803a00	X 001-0803a	buddhist/X-xuzang/X26/08/X26-0803.png
+001-0803b00	X 001-0803b	buddhist/X-xuzang/X26/08/X26-0803.png
+001-0803c00	X 001-0803c	buddhist/X-xuzang/X26/08/X26-0803.png
+001-0804a00	X 001-0804a	buddhist/X-xuzang/X26/08/X26-0804.png
